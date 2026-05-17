@@ -1,4 +1,4 @@
-﻿#import "/template.typ": *
+#import "/template.typ": *
 
 = Mind as vast space: Dzogchen's all-inclusive meditation on the whole environment
 

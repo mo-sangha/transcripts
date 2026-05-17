@@ -1,4 +1,4 @@
-﻿#import "/template.typ": *
+#import "/template.typ": *
 
 = Dzogchen Guru Yoga: an Introduction and Sadhana
 
